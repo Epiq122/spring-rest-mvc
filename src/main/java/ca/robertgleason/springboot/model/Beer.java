@@ -9,6 +9,7 @@ import java.util.UUID;
 
 @Data
 @Builder
+
 public class Beer {
 
     private UUID id;
